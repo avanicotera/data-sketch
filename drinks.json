@@ -1,0 +1,27 @@
+[
+    {
+      "name": "coffee",
+      "timesPerWeek": 5,
+      "temperature": "hot"
+    },
+    {
+      "name": "tea",
+      "timesPerWeek": 3,
+      "temperature": "hot"
+    },
+    {
+      "name": "water",
+      "timesPerWeek": 7,
+      "temperature": "cold"
+    },
+    {
+      "name": "soda",
+      "timesPerWeek": 1,
+      "temperature": "cold"
+    },
+    {
+      "name": "lemonade",
+      "timesPerWeek": 1,
+      "temperature": "cold"
+    }
+  ]
